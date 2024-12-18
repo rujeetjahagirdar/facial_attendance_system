@@ -13,6 +13,7 @@ The Facial Attendance System is a web-based application built using Streamlit. I
 1. [Technologies Used](#technologies-used)
 2. [Getting Started](#getting-started)
 3. [Usage](#usage)
+4. [Screenshots](#screenshots)
 
 ---
 
@@ -64,3 +65,18 @@ streamlit run main.py
 ### **3. View Attendance**
   - Navigate to the View Attendance section.
   - View a table of logged attendance records.
+
+---
+## **Screenshots**
+### **Register Face**
+The Register Face feature allows users to upload a face image and register their name.
+![Register Face Screenshot](screenshots/0register.png "Register Face Feature")
+
+### **Mark Attendance**
+Mark attendance by recognizing faces using the webcam.
+![Mark Attendance Screenshot](screenshots/0attendance.png "Mark Attendance Feature")
+
+### **View Attendance Logs**
+See a table of attendance records.
+![Attendance Logs Screenshot](screenshots/0logs.png "Attendance Logs Feature")
+
