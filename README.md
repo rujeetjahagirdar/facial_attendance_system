@@ -18,7 +18,7 @@ The Facial Attendance System is a web-based application built using Streamlit. I
 ---
 
 ## **Technologies Used**
-1. **Python** (v3.9+)
+1. **Python** 
    - Libraries:
      - `Streamlit`: For the web application interface.
      - `OpenCV`: For webcam handling and image processing.
@@ -30,7 +30,7 @@ The Facial Attendance System is a web-based application built using Streamlit. I
 ## **Getting Started**
 
 ### **1. Prerequisites**
-- Install **Python 3.9+** and **pip**.
+- Install **Python 3** and **pip**.
 
 ### **2. Clone the Repository**
 ```bash
